@@ -1,0 +1,19 @@
+# cAlculAtrice-scientifique
+un outil scientifique qui permet de réAliser un ensemble d'operAtions(soustrAction,Addition,multiplicAtion,division)
+function cos()
+{
+     
+    cos()=$($1)
+    echo " cos() est = $cos"
+     
+    return 1;
+}
+ 
+function sin()
+{
+     
+    soustraction=$($1)
+    echo "sin()= $sin"
+     
+    return 1;
+}
